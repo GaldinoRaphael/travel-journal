@@ -1,3 +1,7 @@
+This is the Solo Project from second part the course Learn React For Free.  
+Based on figma: https://www.figma.com/file/AgMQ6pFyMPweelO6XTJ8uQ/Travel-Journal-(Copy)?node-id=2%3A2&t=Kh3zr58bLQvzGYZ6-0 
+To see the final project: https://mellifluous-choux-0334e0.netlify.app/  
+link of the course: https://scrimba.com/learn/learnreact
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
