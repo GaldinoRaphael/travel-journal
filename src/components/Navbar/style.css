@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    justify-content: center;
+    height: 55px;
+    background: #F55A5A;
+}
+
+.nav-title{
+    color: #fff;
+    font-weight: 500;
+    font-size: 14.4608px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+}
