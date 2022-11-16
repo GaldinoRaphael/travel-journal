@@ -1,0 +1,49 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    line-height: 12px;
+    flex-wrap: wrap;
+    width: 478px;
+}
+
+.card hr{
+    flex: 0 1 100%;
+    width: 100%;
+    border: 1px solid #F5F5F5;
+}
+
+.card-informations{
+    height: 144px;
+    width: 326px;
+}
+
+.card-informations--title{
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 14px;
+}
+
+.card-informations--date{
+    font-size: 10.24px;
+    margin-bottom: 9px;
+}
+
+.card-informations--location{
+    display: flex;
+    gap: 12px;
+    margin-bottom: 4px;
+}
+
+.card-informations--location-country{
+    font-size: 10.24px;
+    letter-spacing: 0.17em;
+    display: flex;
+    gap: 4px;
+}
+
+.card-informations--location-link{
+    font-size: 10.24px;
+}
+

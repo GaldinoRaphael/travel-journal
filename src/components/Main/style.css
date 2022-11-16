@@ -1,0 +1,7 @@
+main{
+    display: flex;
+    flex-direction: column;
+    padding: 45px 40px;
+    justify-content: center;
+    align-items: center;
+}
